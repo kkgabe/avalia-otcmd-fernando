@@ -1,1 +1,1 @@
-[# avalia-otcmd-fernando](https://www.figma.com/file/14KvO8UxGTQ9WdHb0OLkZB/provafigma-fernando?type=design&node-id=0%3A1&mode=design&t=bMjrQSXIXMB9HHwi-1)https://www.figma.com/file/14KvO8UxGTQ9WdHb0OLkZB/provafigma-fernando?type=design&node-id=0%3A1&mode=design&t=bMjrQSXIXMB9HHwi-1
+https://www.figma.com/file/14KvO8UxGTQ9WdHb0OLkZB/provafigma-fernando?type=design&node-id=0%3A1&mode=design&t=bMjrQSXIXMB9HHwi-1)https://www.figma.com/file/14KvO8UxGTQ9WdHb0OLkZB/provafigma-fernando?type=design&node-id=0%3A1&mode=design&t=bMjrQSXIXMB9HHwi-1
